@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bernard Frimpong</h1>
-<h3 align="center">A passionate fullstack developer from Ghana with concentration on react and flutter</h3>
+<h3 align="center">A passionate fullstack developer who enjoys breaking down complexity</h3>
 
 - 🌱 I’m currently learning **flutter and nodejs**
 
-- 💬 Ask me about **react,flutter,**
+- 💬 Ask me about **react,flutter**
 
 - 📫 How to reach me **nardfrimpong@gmail.com**
 
