@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bernard Frimpong</h1>
 <h3 align="center">A passionate fullstack developer who enjoys breaking down complexity</h3>
 
-- 🌱 I’m currently learning **flutter and nodejs**
+- 🌱 I’m currently learning **react, python && golang**
 
-- 💬 Ask me about **react,flutter**
+- 💬 Ask me about **react,typescript,python**
 
 - 📫 How to reach me **nardfrimpong@gmail.com**
 
