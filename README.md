@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bernard Frimpong</h1>
-<h3 align="center">A passionate fullstack developer who enjoys breaking down complexity</h3>
+<h3 align="center">A passionate software engineer who enjoys breaking down complexity</h3>
 
-- 🌱 I’m currently learning **react, python && golang**
+- 🌱 I’m currently learning **kubernetes and Infrustracture**
 
-- 💬 Ask me about **react,typescript,python**
+- 💬 Ask me about **Building Systems that solve real problems**
 
 - 📫 How to reach me **nardfrimpong@gmail.com**
 
