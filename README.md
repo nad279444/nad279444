@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bernard Frimpong</h1>
 <h3 align="center">A passionate software engineer who enjoys breaking down complexity</h3>
 
-- 🌱 I’m currently learning **kubernetes and Infrustracture**
+- 🌱 I’m currently learning **kubernetes and AI Infrastructure**
 
 - 💬 Ask me about **Building Systems that solve real problems**
 
